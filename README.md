@@ -1,4 +1,4 @@
-# 📚 Attendance Management System (Python + SQL)
+# 📚 EduTrack - Attendance Management System (Python + SQL)
 
 A menu-driven Attendance Management System built using **Python** and **SQLite**, designed with proper database modeling, soft deletes, and analytical SQL queries. 
 
