@@ -76,7 +76,7 @@ attendance_system/
 ### 1️⃣ Clone the Repository
 ```bash
 git clone <your-repo-url>
-cd attendance_system
+cd <file_name>
 ```
 
 ### 2️⃣ Create Database & Tables
